@@ -1,0 +1,6 @@
+Essa é basicamente uma calculadora flexível, ela tem toda uma maneira própria de ser, e por isso, eu a construí de forma a ser flexível, por exemplo, escrever “3 + 1” ou “3 mais 1” dá no mesmo, ela filtra palavras desnecessárias, corrige alguns erros de ortografia para sintaxe, armazena novos erros entre outras coisas.
+
+Atenção, como a calculadora tem mais de 25mb tive que deixar ela no drive, baixe o arquivo zipado em:
+https://drive.google.com/drive/folders/1747p3ltm4Rp4E-Hxt4H8YS3fRNjgHwBL?usp=sharing
+
+Para começar a usa-la você pode abrir o “CalcEFIC_0.9415.exe” dentro do diretório principal e escrever “help all”, isso te dará algumas sintaxes que eu coloquei no programa.
